@@ -1,4 +1,4 @@
-# Hi there, I'm Killian 💻📈
+# Hello there, I'm Killian 💻📈
 
 **Bridging Macro-Finance, Econometrics, and Data Science.**
 
